@@ -1,5 +1,8 @@
 div {
-    padding: 50px 
+    padding: 200px 
+}
+div {
+    margin: 25px 50px
 }
 p {
     font-family:cursive
