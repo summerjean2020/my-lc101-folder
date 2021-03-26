@@ -1,16 +1,16 @@
 div {
     padding: 50px 
 }
-p {
+<p> {
     font-family:cursive
     color:brown
     margin:50px 25px
 }
-body {
+<body> {
     background-color:beige
 }
 .location {
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia
 }
 #intro {
     font-family:cursive
